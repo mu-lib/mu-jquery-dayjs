@@ -1,0 +1,28 @@
+{
+  "name": "mu-jquery-dayjs",
+  "version": "0.0.1",
+  "description": "jQuery expression for filtering input elements using dayjs",
+  "main": "",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-jquery-dayjs.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-jquery-dayjs/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-jquery-dayjs#readme",
+  "dependencies": {
+    "dayjs": "^1.5.16"
+  },
+  "peerDependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "standard-version": "^4.3.0"
+  }
+}
