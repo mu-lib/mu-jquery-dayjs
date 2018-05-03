@@ -60,7 +60,7 @@ $("input[type=date]:dayjs(isSame+1hours)");
 
 ```javascript
 // Select all elements where the date is before 1 year from now
-$("input[type=date]:dayjs(isBefore-1hours)");
+$("input[type=date]:dayjs(isBefore-1years)");
 ```
 
 ```javascript
